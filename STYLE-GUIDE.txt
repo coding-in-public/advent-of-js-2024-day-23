@@ -1,0 +1,11 @@
+Roboto Mono - https://fonts.google.com/specimen/Roboto+Mono
+
+Heading - 24px / line-height: 24px / Medium
+Form Label - 14px / line-height: 22px / Bold
+Expense Items and Total: 20px / line-height: 21px / Medium
+
+Red: #E51F1F
+Green: #90AC62
+
+Input background: #F7F7F7
+Border color: #D7D7D7
